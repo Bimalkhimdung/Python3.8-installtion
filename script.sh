@@ -1,5 +1,7 @@
 #!/bin/bash
 
+chmod +x script.sh
+
 #installing packages
 sudo apt update
 
